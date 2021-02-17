@@ -1,5 +1,6 @@
 # Netflix Landing Page Clone
 This a single movie landing page that was created using reactjs and hosted using firebase
+![](images/netflixclone1.PNG)
 
 # Before Using
 * Nodejs is installed (https://nodejs.org/)
