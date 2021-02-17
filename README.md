@@ -27,6 +27,9 @@ Run the following commands:
 * firebase init
 * npm run build
 * firebase deploy
+
+Live 
+https://netflix-clone-63565.web.app/
  
 
 
